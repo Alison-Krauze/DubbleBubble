@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to choose the right font for your design.
+title: How to choose the right font for your design
 date: 2021-11-22T13:55:07.677Z
 image: ../uploads/60107ea7d58c7f4911c2a966_6002086f72b7276fbd01e8b3_sennep.jpeg
 title_color: "#ffffff"
