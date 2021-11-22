@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the font adds value to the design.
+title: How the font adds value to the design
 date: 2021-11-22T13:46:56.172Z
 image: ../uploads/60107ea7b92ae28d743d8198_6002086f72b727636701e8a4_spotify-carnival-promotion.jpeg
 title_color: "#ffffff"
